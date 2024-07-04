@@ -57,7 +57,6 @@ export default function Firstcomponent() {
           columns={columns}
           loading={loading}
           checkboxSelection
-          disableSelectionOnClick
         />
       </Box>
     </div>
